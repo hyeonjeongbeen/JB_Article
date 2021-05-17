@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.modal-backdrop {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.w-200px {
+    width: 200px;
+}
+
+.invalid-feedback {
+    display: inline-block !important;
+}
+
+img.table-image {
+    width: 100px;
+}
